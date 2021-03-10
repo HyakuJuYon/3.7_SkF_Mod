@@ -8,7 +8,7 @@ namespace _3._7_SkF_Mod
         {
             Console.WriteLine("Enter your age, please: ");
 
-            byte age = checked ((byte)int.Parse(Console.ReadLine());
+            byte age = checked ((byte)int.Parse(Console.ReadLine()));
 
             Console.WriteLine("Your age is {0}", age);
            
