@@ -25,14 +25,4 @@ namespace _3._7_SkF_Mod
             Console.ReadKey();
         }
     }
-    enum DaysOfWeek : byte
-    {
-        Sunday = 1,
-        Monday,
-        Tuesday,
-        Wednesday,
-        Thursday,
-        Friday,
-        Saturday
-    }
 }
